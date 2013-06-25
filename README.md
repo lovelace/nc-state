@@ -3,4 +3,5 @@
 * At NC State!
 * Shakespeare
 * Poe
+* Lovelace
 
